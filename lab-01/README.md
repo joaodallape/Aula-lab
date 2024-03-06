@@ -1,12 +1,6 @@
 Print da Execução:
 
-![image](https://github.com/joaodallape/computacao-paralela/assets/133605398/e2e889c5-63b6-4987-b37f-ed8af7dc51fc)
+![image](https://github.com/joaodallape/computacao-paralela/assets/133605398/f43016c8-2d03-4c50-a6f4-99d33305cfa6)
 
 
 Para a execução foi necessário instalar o GCC no AWS, criei o hello world usando o Nano, que também instalei e enviei ao github usando o git add (nome do arquivo), junto com o git commit e por último usando o git push para finalizar o envio.
-
-Nome: João Victor Dallapé Madeira
-
-RA: 10400725 
-
-Matrícula: 32209592
